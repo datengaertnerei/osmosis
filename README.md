@@ -1,5 +1,4 @@
 # Osmosis
-![Build Status](https://github.com/openstreetmap/osmosis/actions/workflows/continuous-integration.yml/badge.svg)
 
 ## Overview
 
